@@ -730,7 +730,7 @@ h3 {
 }
 
 h1 {
-    color: #333333 !important;
+    color: #333333;
 }
 
 h4 {
@@ -790,7 +790,11 @@ h4 {
 }
 
 .tc-white {
-    color: black !important;
+    color: black;
+}
+
+.white-contrast {
+    color: white;
 }
 
 .background {

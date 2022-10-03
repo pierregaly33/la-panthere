@@ -362,6 +362,7 @@ a:hover {
     z-index: 2;
 }
 
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -683,10 +684,6 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 15px;
-}
-
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -846,6 +843,25 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
+}
+
+.presentation {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.commentaire {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.auteur {
+    font-size: 18px;
+}
+
+.travail {
+    font-size: 25px;
 }
 
 @media (max-width: 1024px) {

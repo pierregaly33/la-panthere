@@ -745,6 +745,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
 }
 
 .portfolio-row {
@@ -758,6 +759,7 @@ h4 {
 
 .blanc>ul>li {
     margin-top: 5px;
+    margin-bottom: 20px;
 }
 
 .avatar {
@@ -787,16 +789,13 @@ h4 {
 }
 
 .tc-white {
-    color: black;
+    color: white;
 }
 
 .white-contrast {
     color: white;
 }
 
-.background {
-    background-color: #7E98BE;
-}
 
 .btn-atomic-tangerine {
     background: #97380C;

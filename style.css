@@ -10,8 +10,8 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none !important;
 }
+
 
 a:hover {
     text-decoration: none;
@@ -516,6 +516,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    width: 393px;
 }
 
 .scrollToTop {
@@ -862,6 +863,7 @@ h4 {
 .travail {
     font-size: 25px;
 }
+
 
 @media (max-width: 1024px) {
     .bloc {
